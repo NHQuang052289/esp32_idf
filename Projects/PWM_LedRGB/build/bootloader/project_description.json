@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/ESP_IDF/Download/components/bootloader/subproject",
+    "build_dir":          "D:/Hoc_ESP32/Projects/PWM_LedRGB/build/bootloader",
+    "config_file":        "D:/Hoc_ESP32/Projects/PWM_LedRGB/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.0.1-dirty",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/ESP_IDF/Download/components/efuse/Kconfig;C:/ESP_IDF/Download/components/esp32/Kconfig;C:/ESP_IDF/Download/components/esp_common/Kconfig;C:/ESP_IDF/Download/components/log/Kconfig;C:/ESP_IDF/Download/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/ESP_IDF/Download/components/bootloader/Kconfig.projbuild;C:/ESP_IDF/Download/components/esptool_py/Kconfig.projbuild;C:/ESP_IDF/Download/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/ESP_IDF/Download/components/bootloader", "C:/ESP_IDF/Download/components/bootloader_support", "C:/ESP_IDF/Download/components/efuse", "C:/ESP_IDF/Download/components/esp32", "C:/ESP_IDF/Download/components/esp_common", "C:/ESP_IDF/Download/components/esp_rom", "C:/ESP_IDF/Download/components/esptool_py", "C:/ESP_IDF/Download/components/log", "C:/ESP_IDF/Download/components/bootloader/subproject/main", "C:/ESP_IDF/Download/components/bootloader/subproject/components/micro-ecc", "C:/ESP_IDF/Download/components/partition_table", "C:/ESP_IDF/Download/components/soc", "C:/ESP_IDF/Download/components/spi_flash", "C:/ESP_IDF/Download/components/xtensa", "" ]
+}

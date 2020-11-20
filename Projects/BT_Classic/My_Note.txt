@@ -1,0 +1,16 @@
+advertising characteristic service scan gap gatt profile uuid
+
+EIR: Extended Inquiry Response
+Phản hồi yêu cầu mở rộng (EIR) thay thế phản hồi yêu cầu tiêu chuẩn và chứa thông tin bổ sung.
+The Extended Inquiry Response includes the following: 
+- device local name
+- service class UUIDs of each service the device supports
+- the transmission power
+- manufacturer specific value
+
++, UUID là 1 giá trị xác định 1 loại dịch vụ/ chức năng cụ thể được cung cấp bởi thiết bị.
+VD: sẽ có 1 UUID để xác định máy in, 1 UUID để xác định tai nghe
+
+Cod: class of device
+RSSI: Received signal strength indication
+

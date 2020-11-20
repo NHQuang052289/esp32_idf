@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/CMakeFiles/bootloader
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/CMakeFiles/bootloader.rule
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/CMakeFiles/bootloader-complete.rule
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Hoc_ESP32/Projects/MQTT_WS_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

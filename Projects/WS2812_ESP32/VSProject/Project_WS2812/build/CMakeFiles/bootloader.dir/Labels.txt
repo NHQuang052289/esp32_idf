@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/CMakeFiles/bootloader
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/CMakeFiles/bootloader.rule
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/CMakeFiles/bootloader-complete.rule
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/MyProject/WS2812_ESP32/VSProject/Project_WS2812/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

@@ -1,0 +1,3 @@
+npx create-esp32-app
+select directory to ESP-IDF (C:\ESP_IDF\Download)
+select directory to espressif Tools (C:\ESP_IDF\Tools)
